@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning on Roblox Luau and Python
 <!--
 **1barrier/1barrier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
