@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning on Roblox Luau and Python
+I am Caleb and currently a student looking forward to programming.
+
+🌱 I’m currently learning on Luau and Python
+🔭 I’m currently working on publishing roblox games on the platform
 <!--
 **1barrier/1barrier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
